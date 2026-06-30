@@ -1,4 +1,4 @@
-#  README — Rapport des Utilisateurs Locaux avec PowerShell
+#  Rapport des Utilisateurs Locaux avec PowerShell
 
 ## Présentation
 
